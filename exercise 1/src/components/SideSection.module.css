@@ -1,0 +1,30 @@
+.background{
+font-size: 23px;
+font-weight: 650;
+background-color: rgb(255, 255, 255);
+padding: 20px;
+margin-bottom: 1px;
+margin-top: -1518px;
+margin-right: 650px;
+margin-left: 900px;
+}
+
+.underline{
+    font-size: 23px;
+    font-weight: 650;
+    background-color: rgb(255, 255, 255);
+    padding: 20px;
+    margin-bottom: 1px;
+    margin-top: -55px;
+    margin-right: 650px;
+    margin-left: 900px;  
+}
+
+.uutiset{
+    background-color: white;
+    padding: 20px;
+    margin-bottom: 1px;
+    margin-top: 0px;
+    margin-right: 650px;
+    margin-left: 900px;
+}

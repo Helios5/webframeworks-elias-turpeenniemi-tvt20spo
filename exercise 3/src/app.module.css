@@ -1,0 +1,14 @@
+.background{
+    width: 101%;
+    color: white;
+    height: 70px;
+    background-color: rgb(19, 25, 33);
+    margin-left: -8px;
+    margin-top: -74px
+  }
+
+  .searchBackground{
+    margin-top: -38px;
+    margin-left: 116px;
+    color: white;
+  }

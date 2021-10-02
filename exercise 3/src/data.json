@@ -1,0 +1,46 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "Roku Express 4K+ 2021 | Streaming Media Player HD/4K/HDR with Smooth Wireless Streaming and Roku Voice Remote with TV Controls, Includes Premium HDMI Cable",
+      "image1": "stars.png",
+      "price": 38.98,
+      "image": "img1.png"
+    },
+    {
+      "id": 2,
+      "name": "WD 2TB Elements Portable External Hard Drive HDD, USB 3.0, Compatible with PC, Mac, PS4 & Xbox - WDBU6Y0020BBK-WESN",
+      "image1": "stars.png",
+      "price": 59.99,
+      "image": "img2.png"
+    },
+    {
+      "id": 3,
+      "name": "Seagate Portable 2TB External Hard Drive Portable HDD – USB 3.0 for PC, Mac, PS4, & Xbox - 1-Year Rescue Service (STGX2000400)",
+      "image1": "stars.png",
+      "price": 59.51,
+      "image": "img3.png"
+    },
+    {
+      "id": 4,
+      "name": "Roku Streaming Stick+ | HD/4K/HDR Streaming Device with Long-range Wireless and Roku Voice Remote with TV Controls",
+      "image1": "stars.png",
+      "price": 39.11,
+      "image": "img4.png"
+      },
+      {
+        "id": 5,
+        "name": "Sceptre E248W-19203R 24 Ultra Thin 75Hz 1080p LED Monitor 2x HDMI VGA Build-in Speakers, Metallic Black 2018",
+        "image1": "stars.png",
+        "price": 139.97,
+        "image": "img5.png"
+        },
+        {
+          "id": 6,
+          "name": "iPhone Charger [Apple MFi Certified] QIRUOZ 5Pack(3/3/6/6/10FT) Compatible iPhone 12Pro Max/12Pro/12/11/Pro/Xs Max/X/8 and More-Silver&White",
+          "image1": "stars.png",
+          "price": 12.99,
+          "image": "img6.png"
+    }
+  ]
+}
